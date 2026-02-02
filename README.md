@@ -93,11 +93,6 @@ We modeled the efficiency gains using **BPMN** (Business Process Model and Notat
 This repository contains the digital artifacts of the analysis:
 * 📂 `/diagrams` - High-resolution UML and TOGAF diagrams.
 * 📂 `/docs` - The comprehensive PDF report of the architecture design.
+* [Open in Draw.io](https://app.diagrams.net/?#Uhttps://github.com/USERNAME/NAMA-REPO/raw/main/NAMA-FILE.drawio) - The visualization of use case diagram and kiosk's lend and return BPMN
 
 ---
-
-### 👤 Author
-**Maura Adha Salsabillah**
-*Information Systems Student*
-
-[LinkedIn](https://www.linkedin.com/in/maura-adha-salsabillah-96332b281/) | [Email](mailto:mauraadhasalsabillah@gmail.com)
